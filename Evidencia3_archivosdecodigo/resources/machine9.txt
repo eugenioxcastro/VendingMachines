@@ -1,0 +1,2 @@
+((a1 pepsi 15 0) (a2 sabritas 15 47) (a3 mantecadas 17 21) (b1 bubalu 4 24) (b2 sprite 17 0) (b3 halls 10 46) (c1 emperador 13 29) (c2 arizona 24 0) (c3 adobadas 15 35) (d1 ruffles 13 48) (d2 pinguino 12 21) (d3 gansito 15 48) (e1 nito 17 46) (e2 crujitos 14 0) (e3 milkyway 13 36))
+((1 213 350) (2 170 300) (5 218 250) (10 101 200) (20 47 150) (50 89 100))

@@ -1,0 +1,2 @@
+((a1 pepsi 15 40) (a2 sabritas 15 40) (a3 mantecadas 17 30) (b1 bubalu 4 60) (b2 sprite 17 7) (b3 halls 10 70) (c1 emperador 13 55) (c2 arizona 24 0) (c3 adobadas 15 35) (d1 ruffles 13 35) (d2 pinguino 12 30) (d3 gansito 15 14) (e1 nito 17 27) (e2 crujitos 14 40) (e3 milkyway 13 35))
+clojure.lang.LazySeq@b3dd6b3c
